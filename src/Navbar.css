@@ -1,0 +1,29 @@
+.navbar-ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border-bottom: 1px solid #E5E5E5;
+}
+
+.navbar-li {
+  float: left;
+}
+
+.navbar-li:last-child {
+  border-right: none;
+}
+
+.navbar-li {
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 25px 30px;
+  text-decoration: none;
+
+  font-family: 'Advent Pro', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+}

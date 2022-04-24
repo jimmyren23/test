@@ -1,0 +1,83 @@
+[
+  {
+    "id":1,
+    "celeb_photo": "https://imagecomposer.nfl.com/?l=http://static.nfl.com/static/content/static/img/combine/2020/headshots/1400x1000/2563825.png&f=png&w=308&c=71",
+    "correct_answer": "Joe Burrow",
+    "wrong_answer_1": "Macaulay Culkin",
+    "wrong_answer_2": "Lucas Grabeel",
+    "wrong_answer_3": "Aaron Paul"
+  },
+
+  {
+  "id":2,
+  "celeb_photo": "https://s.abcnews.com/images/Business/GTY_kawhi_leonard_jt_160316_16x9_992.jpg",
+  "correct_answer": "Kawhi Leonard",
+  "wrong_answer_1": "Kendrick Lamar",
+  "wrong_answer_2": "Chris Paul",
+  "wrong_answer_3": "OG anunoby"
+},
+{
+  "id":3,
+  "celeb_photo": "https://ntvb.tmsimg.com/assets/assets/190175_v9_bc.jpg?w=270&h=360",
+  "correct_answer": "Isla Fisher",
+  "wrong_answer_1": "Amy Adams",
+  "wrong_answer_2": "Jessica Chastain",
+  "wrong_answer_3": "Bryce Dallas Howard"
+},
+{
+  "id":4,
+  "celeb_photo": "https://i.pinimg.com/originals/b3/f1/1a/b3f11a21b6aebcd9dc28fdae24cdb010.jpg",
+  "correct_answer": "Margot Robbie",
+  "wrong_answer_1": "Jaime King",
+  "wrong_answer_2": "Jaime Pressly",
+  "wrong_answer_3": "Emma Mackey"
+},
+{
+  "id":5,
+  "celeb_photo": "https://images6.fanpop.com/image/photos/36100000/Elizabeth-elizabeth-banks-36139746-500-257.png",
+  "correct_answer": "Elizabeth Banks",
+  "wrong_answer_1": "Chelsea Handler",
+  "wrong_answer_2": "Halston Sage",
+  "wrong_answer_3": "Jennifer Aniston"
+},
+{
+  "id":6,
+  "celeb_photo": "https://shebudgets.com/wp-content/uploads/2016/05/480982052.jpg",
+  "correct_answer": "Wardell Curry",
+  "wrong_answer_1": "Seth Curry",
+  "wrong_answer_2": "Patrick Mahomes",
+  "wrong_answer_3": "Jackson Mahomes"
+},
+{
+  "id":7,
+  "celeb_photo": "https://static01.nyt.com/images/2021/12/14/sports/14chloe-kim1/14chloe-kim1-videoSixteenByNineJumbo1600.jpg",
+  "correct_answer": "Chloe Kim",
+  "wrong_answer_1": "Lana Condor",
+  "wrong_answer_2": "Gemma Chan",
+  "wrong_answer_3": "Eileen Gu"
+},
+{
+  "id":8,
+  "celeb_photo": "https://www.biography.com/.image/t_share/MTgxMTA3NjcxMzM0NjU5MTYw/gettyimages-1146354927.jpg",
+  "correct_answer": "Jack Dorsey",
+  "wrong_answer_1": "Ted Cruz",
+  "wrong_answer_2": "Bradley Cooper",
+  "wrong_answer_3": "Dr. Oz"
+},
+{
+  "id":9,
+  "celeb_photo": "https://m.media-amazon.com/images/M/MV5BODQyNTQyNzY4MV5BMl5BanBnXkFtZTcwODg5MDA3MQ@@._V1_.jpg",
+  "correct_answer": "Mila Kunis",
+  "wrong_answer_1": "Sarah Hyland",
+  "wrong_answer_2": "Jessica Alba",
+  "wrong_answer_3": "Lucy Hale"
+},
+{
+  "id":10,
+  "celeb_photo": "https://m.media-amazon.com/images/M/MV5BMGVjYTU2NjUtMmE3OS00YTlhLWFjYjEtZTA1ZTEwZDkyZTMyXkEyXkFqcGdeQXVyMTI0MDI3NzEw._V1_UY1200_CR752,0,630,1200_AL_.jpg",
+  "correct_answer": "Jennie Kim",
+  "wrong_answer_1": "Chou Tzu-yu",
+  "wrong_answer_2": "Bae Joo-hyun",
+  "wrong_answer_3": "HoYeon Jung"
+}
+]
